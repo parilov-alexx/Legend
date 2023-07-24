@@ -1,0 +1,17 @@
+body { 
+    color: #999; 
+}
+
+.quote {
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+
+    background-color:#590B69;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+};
